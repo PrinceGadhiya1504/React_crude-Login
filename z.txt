@@ -1,0 +1,5 @@
+npm init
+    ||
+    \/
+Json server run => json-server --watch db.json --port 1000
+Install => npm i react-router-dom axios bootstrap json-server

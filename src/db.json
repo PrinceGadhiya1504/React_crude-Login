@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Prince Gadhiya",
+            "course": "BCA",
+            "username": "prince",
+            "password": "prince"
+        }
+    ]
+}

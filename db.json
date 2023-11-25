@@ -1,0 +1,20 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Mayur",
+      "course": "EC",
+      "username": "mg",
+      "password": "m",
+      "conformpassword": "m"
+    },
+    {
+      "name": "Prince Gadhiya",
+      "course": "BAC",
+      "username": "prince",
+      "password": "prince",
+      "conformpassword": "prince",
+      "id": 2
+    }
+  ]
+}
